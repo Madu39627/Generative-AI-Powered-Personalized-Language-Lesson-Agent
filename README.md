@@ -1,0 +1,1 @@
+Development of an intelligent agent framework in Python to automate and personalize language lesson generation. The agent is designed to dynamically create structured lessons based on user-defined parameters such as target language (e.g., Yoruba), proficiency level (Beginner), focus (Greetings and introductions), and cultural context.
